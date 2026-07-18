@@ -282,7 +282,7 @@ import seaborn as sns
 
 ---
 
-# 🙏 Acknowledgements
+# Acknowledgements
 
 Special thanks to:
 
