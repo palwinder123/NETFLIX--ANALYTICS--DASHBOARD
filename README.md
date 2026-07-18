@@ -44,6 +44,7 @@ Build an interactive dashboard using Streamlit.
 📈 Visualizations Included
 
 
+
 🥧 Movies vs TV Shows (Pie Chart)
 
 📈 Release Trend (Line Chart)
@@ -65,26 +66,29 @@ Build an interactive dashboard using Streamlit.
 📦 Box Plot
 
 
+
 🛠 Technologies Used
 
-Python
 
-Pandas
+**Python
 
-NumPy
+**Pandas
 
-Plotly
+**NumPy
 
-Streamlit
+**Plotly
 
-Matplotlib
+**Streamlit
 
-Seaborn
+**Matplotlib
 
-Jupyter Notebook
+**Seaborn
+
+**Jupyter Notebook
 
 
 📂 Dataset
+
 Dataset: Netflix Movies and TV Shows
 Source: Kaggle
 Records: 8,807
