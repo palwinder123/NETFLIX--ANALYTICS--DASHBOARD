@@ -42,51 +42,48 @@ Build an interactive dashboard using Streamlit.
 🏁 Conclusion
 
 
+    📈 Visualizations Included
 
-            📈 Visualizations Included
+    🥧 Movies vs TV Shows (Pie Chart)
 
+    📈 Release Trend (Line Chart)
 
+    📊 Content Ratings (Grouped Bar Chart)
 
-           🥧 Movies vs TV Shows (Pie Chart)
+    🌍 Top Producing Countries
 
-           📈 Release Trend (Line Chart)
+    🎭 Top Genres
 
-📊 Content Ratings (Grouped Bar Chart)
+    📅 Years Taken to Add Content (Histogram)
 
-🌍 Top Producing Countries
+    👨‍💼 Top Directors
 
-🎭 Top Genres
+    🎬 Top Actors
 
-📅 Years Taken to Add Content (Histogram)
+    🔥 Heatmap
 
-👨‍💼 Top Directors
-
-🎬 Top Actors
-
-🔥 Heatmap
-
-📦 Box Plot
+   📦 Box Plot
 
 
 
-🛠 Technologies Used
+    🛠 Technologies Used
 
 
-**Python
+    **Python
 
-**Pandas
+    **Pandas
 
-**NumPy
+    **NumPy
 
-**Plotly
+    **Plotly
 
-**Streamlit
+    **Streamlit
 
-**Matplotlib
+    **Matplotlib
 
-**Seaborn
+    **Seaborn
 
-**Jupyter Notebook
+    **Jupyter Notebook
 
 
 📂 Dataset
