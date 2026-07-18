@@ -41,13 +41,15 @@ Build an interactive dashboard using Streamlit.
 
 🏁 Conclusion
 
-📈 Visualizations Included
+
+
+            📈 Visualizations Included
 
 
 
-🥧 Movies vs TV Shows (Pie Chart)
+           🥧 Movies vs TV Shows (Pie Chart)
 
-📈 Release Trend (Line Chart)
+           📈 Release Trend (Line Chart)
 
 📊 Content Ratings (Grouped Bar Chart)
 
