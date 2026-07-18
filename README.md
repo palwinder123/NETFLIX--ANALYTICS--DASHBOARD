@@ -1,5 +1,7 @@
 # NETFLIX--ANALYTICS--DASHBOARD
-DATA SCIENCE PROJECT : NETFLIX MOVIES AND TV SHOWS  ANALYSIS 
+DATA SCIENCE PROJECT : NETFLIX MOVIES AND TV SHOWS  ANALYSIS
+
+
 🎬 Netflix Analytics Dashboard
 📌 Project Overview
 
@@ -8,12 +10,14 @@ The Netflix Analytics Dashboard is a data analytics project developed using Pyth
 The project demonstrates the complete data analytics workflow, including data cleaning, preprocessing, exploratory data analysis (EDA), interactive visualization, and dashboard development.
 
 🎯 Objectives
+
 Analyze Netflix Movies and TV Shows data.
 Perform data cleaning and preprocessing.
 Explore trends using interactive visualizations.
 Identify top genres, countries, directors, and actors.
 Study movie duration and release year patterns.
 Build an interactive dashboard using Streamlit.
+
 📊 Dashboard Features
 🏠 Home Page with KPI Cards
 📂 Dataset Overview
@@ -33,6 +37,8 @@ Build an interactive dashboard using Streamlit.
 🎬 Top Actors
 🔥 Heatmap
 📦 Box Plot
+
+
 🛠 Technologies Used
 Python
 Pandas
@@ -42,6 +48,8 @@ Streamlit
 Matplotlib
 Seaborn
 Jupyter Notebook
+
+
 📂 Dataset
 Dataset: Netflix Movies and TV Shows
 Source: Kaggle
