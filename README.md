@@ -62,7 +62,7 @@ Build an interactive dashboard using Streamlit.
 
     🔥 Heatmap
 
-   📦 Box Plot
+    📦 Box Plot
 
 
 
@@ -86,9 +86,9 @@ Build an interactive dashboard using Streamlit.
     **Jupyter Notebook
 
 
-📂 Dataset
+     📂 Dataset
 
-Dataset: Netflix Movies and TV Shows
-Source: Kaggle
-Records: 8,807
-Features: 12
+     Dataset: Netflix Movies and TV Shows
+     Source: Kaggle
+     Records: 8,807
+     Features: 12
